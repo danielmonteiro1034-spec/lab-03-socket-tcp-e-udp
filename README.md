@@ -16,8 +16,8 @@
 
 | Vídeo | Conteúdo | Link |
 |---|---|---|
-| Vídeo 1 | Questões 1 e 2 — Chat TCP | |
-| Vídeo 2 | Questão 3 — Quadro Branco Colaborativo | |
+| Vídeo 1 | Questões 1 e 2 — Chat TCP | https://youtu.be/_CBbQIiQOGk |
+| Vídeo 2 | Questão 3 — Quadro Branco Colaborativo | https://youtu.be/28DTG2YCkjU |
 
 ---
 
